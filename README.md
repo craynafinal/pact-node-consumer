@@ -1,3 +1,7 @@
+This is following the tutorial on https://reflectoring.io/pact-react-consumer/.
+
+Below is the auto-generated documentation while initializing the react app.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
